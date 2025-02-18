@@ -1,4 +1,4 @@
-# Human Action Recognition using Pose Estimation and Object Recognition
+# HUMAN POSE ESTIMATION USING MACHINE LEARNING EDUNET PROJECT
 
 This repository contains the implementation of a human action recognition system that integrates human pose estimation and object recognition. The project leverages pre-trained deep learning models MoveNet and MobileNetV3 to enhance the accuracy and robustness of action recognition tasks.
 
