@@ -49,7 +49,3 @@ The experiments revealed that the integration of human pose and object data sign
 
 This project demonstrates the potential of combining pose estimation and object recognition for human action recognition tasks. The multimodal approach significantly enhances accuracy, particularly in complex scenes with varied environments.
 
-## Authors
-
-- Lorenzo Barbiero
-- Alessio Pitteri
